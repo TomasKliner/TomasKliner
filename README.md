@@ -3,12 +3,21 @@
                 <b><a target="_blank" href="https://kliner.eu">Tomas</a></b>
         </samp>
 </h1>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=dark&hide_border=true&border_radius=10)" alt="Github Streak" />
 
 - ❤️ TailwindCSS
 - ❤️ Next.js
-- Tech i use:
 
+<p align="center">
+  <a href="https://github.com/TomasKliner">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=ayu-mirage" height="192px" width="80%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/TomasKliner">
+  <img alt="my most used languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage" height="192px" width="80%"/></a>
+  </p>
+
+  <br/>
 <div align="center">
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -66,7 +75,6 @@
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint" /></code>
 </div>
-
 
 <!--
 **TomasKliner/TomasKliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
