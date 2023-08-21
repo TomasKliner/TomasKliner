@@ -9,12 +9,12 @@
 
 <p align="center">
   <a href="https://github.com/TomasKliner">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=ayu-mirage" height="192px" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=ayu-mirage" height="auto" width="80%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/TomasKliner">
-  <img alt="my most used languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage" height="192px" width="80%"/></a>
+  <img alt="my most used languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage" height="auto" width="60%"/></a>
   </p>
 
   <br/>
