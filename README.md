@@ -18,9 +18,8 @@
 
 ### Some of The Tech I currently use:
 <div align="left">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="Visual Studio Code" title="Visual Studio Code" />
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/1200px-Zorin_OS.svg.png" alt="Visual Studio Code" title="Visual Studio Code" />
-<img height="20" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Visual Studio Code" title="Visual Studio Code" />
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/1200px-Zorin_OS.svg.png" alt="Zorin Os Linux" title="ZorinOs Linux" />
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="WebStorm" title="WebStorm" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
@@ -30,6 +29,8 @@
 <img height="20" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
+<img height="20" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NextJS" title="NextJS" />
+<img height="20" src="https://pbs.twimg.com/profile_images/1524776891084857344/qy9E4xIa_400x400.jpg" alt="Plasmo" title="Plasmo" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
 </div>
