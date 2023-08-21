@@ -16,10 +16,11 @@
   <img alt="my most used languages" src="https://my-readme-stats-git-main-tomaskliner.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage" height="auto" width="50%"/></a>
   </p>
 
+<a href="no-distraction.kliner.eu">
 <h3 align="center"> Checkout my Productivity Extension im working on:</h3>
 <div align="center">
-<a href="no-distraction.kliner.eu">
 <img src="https://no-distraction.kliner.eu/images/ND_blue.svg" alt="No Distraction logo" title="No Distraction" width="25%" />
+</div>
 </a>
 
 ### Some of The Tech I currently use:
