@@ -3,7 +3,6 @@
                 <b><a target="_blank" href="https://kliner.eu">Tomas</a></b>
         </samp>
 </h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=dark&hide_border=true&border_radius=10)" alt="Github Streak" />
 
 - ❤️ TailwindCSS
