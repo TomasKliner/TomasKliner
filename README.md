@@ -6,7 +6,6 @@
 
 - ❤️ TailwindCSS
 - ❤️ Next.js
-
 <p align="center">
   <a href="https://github.com/TomasKliner">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=ayu-mirage" height="auto" width="80%" />
@@ -14,11 +13,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/TomasKliner">
-  <img alt="my most used languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage" height="auto" width="60%"/></a>
+  <img alt="my most used languages" src="https://my-readme-stats-git-main-tomaskliner.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage" height="auto" width="60%"/></a>
   </p>
 
-### Tech i currently use:
+### Some of The Tech I currently use:
 <div align="left">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="Visual Studio Code" title="Visual Studio Code" />
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/1200px-Zorin_OS.svg.png" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="20" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
@@ -33,11 +34,11 @@
 <img height="20" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
-### Tech i tried:
+### Some of the Tech I tried:
 
 <div align="center">
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" />
-<img height="20" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" alt="REST" title="REST" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" />
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab" />
