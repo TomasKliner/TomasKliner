@@ -6,6 +6,7 @@
 
 - ❤️ TailwindCSS
 - ❤️ Next.js
+
 <p align="center">
   <a href="https://github.com/TomasKliner">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=ayu-mirage" height="auto" width="80%" />
@@ -18,12 +19,15 @@
 
 <a href="https://no-distraction.kliner.eu">
 <h3 align="center"> Checkout my Productivity Extension im working on:</h3>
+</a>
+<a href="https://no-distraction.kliner.eu">
 <div align="center">
 <img src="https://no-distraction.kliner.eu/images/ND_blue.svg" alt="No Distraction logo" title="No Distraction" width="25%" />
 </div>
 </a>
 
-### Some of The Tech I currently use:
+### Some of The Tech I currently use
+
 <div align="left">
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/1200px-Zorin_OS.svg.png" alt="Zorin Os Linux" title="ZorinOs Linux" />
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="WebStorm" title="WebStorm" />
@@ -42,7 +46,7 @@
 <img height="20" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
-### Some of the Tech I tried:
+### Some of the Tech I tried
 
 <div align="center">
 <img height="20" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" />
