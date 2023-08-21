@@ -1,9 +1,10 @@
-### Hi there 👋
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There 👋, I am
                 <b><a target="_blank" href="https://kliner.eu">Tomas</a></b>
         </samp>
 </h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
 - ❤️ TailwindCSS
 - ❤️ Next.js
 - Tech i use:
