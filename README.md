@@ -1,18 +1,14 @@
-
-```html
 <h1 align="center">
         <samp>&gt; Hi There 👋, I am
                 <b><a target="_blank" href="https://kliner.eu">Tomas</a></b>
         </samp>
 </h1>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomasKliner&theme=dark&hide_border=true&border_radius=10)" alt="Github Streak" />
-```
 
 - ❤️ TailwindCSS
 - ❤️ Next.js
 - Tech i use:
 
-```html
 <div align="center">
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -26,11 +22,9 @@
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 </div>
-```
 
 - Tech i have used few times before:
 
-```html
 <div align="center">
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
@@ -71,7 +65,7 @@
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux" /></code>
  <code><img height="20" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint" /></code>
-</div>```
+</div>
 
 
 <!--
