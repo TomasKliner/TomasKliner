@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://kliner.eu">Tomas</a></b>
+        </samp>
+</h3>
 - ❤️ TailwindCSS
 - ❤️ Next.js
 - Tech i use:
