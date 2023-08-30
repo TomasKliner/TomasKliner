@@ -20,7 +20,7 @@
 <a href="https://no-distraction.kliner.eu">
 <h3 align="center"> Checkout my Productivity Extension im working on:</h3>
 </a>
-<a href="https://no-distraction.kliner.eu">
+<a href="https://kliner.eu">
 <div align="center">
 <img src="https://no-distraction.kliner.eu/images/ND_blue.svg" alt="No Distraction logo" title="No Distraction" width="25%" />
 </div>
