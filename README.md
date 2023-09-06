@@ -4,8 +4,8 @@
         </samp>
 </h1>
 
-- ❤️ TailwindCSS
-- ❤️ Next.js
+❤️ TailwindCSS
+❤️ Next.js
 
 <p align="center">
   <a href="https://github.com/TomasKliner">
