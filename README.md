@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/TomasKliner">
-  <img alt="my most used languages" src="https://my-readme-stats-git-main-tomaskliner.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage&langs_count=10&exclude_repo=obsidian-notes,Stern,javascript-exercises,JavaScript3010" height="auto" width="50%"/></a>
+  <img alt="my most used languages" src="https://my-readme-stats-git-main-tomaskliner.vercel.app/api/top-langs/?username=TomasKliner&layout=compact&theme=ayu-mirage&langs_count=10&exclude_repo=obsidian-notes,Stern,javascript-exercises,JavaScript3010,sternStaticCopy" height="auto" width="50%"/></a>
   </p>
 
 <a href="https://no-distraction.kliner.eu">
