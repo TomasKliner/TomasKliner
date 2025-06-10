@@ -26,7 +26,7 @@
 </div>
 </a>
 
-### Some of The Tech I currently use
+### Tech I use
 
 <div align="left">
 <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zorin_OS.svg/1200px-Zorin_OS.svg.png" alt="Zorin Os Linux" title="ZorinOs Linux" />
