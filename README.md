@@ -48,6 +48,7 @@
 <img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
 <img height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NextJS" title="NextJS" />
 <img height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" />
+<img height="40" src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="TanStack" title="TanStack" />
 
 ### Styling & Design
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/120px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" title="Adobe Illustrator" />
