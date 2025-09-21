@@ -105,7 +105,7 @@
       <img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
       <img height="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
       <img height="30" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" />
-      <img height="30" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" title="Supabase" />
+      <img height="30" src="https://avatars.githubusercontent.com/u/54469796?s=48&v=4" alt="Supabase" title="Supabase" />
       <img height="30" src="https://fly.io/static/images/brand/logo-portrait.svg" alt="Fly.io" title="Fly.io" />
     </td>
     <td align="center">
