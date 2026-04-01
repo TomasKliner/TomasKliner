@@ -4,9 +4,11 @@
         </samp>
 </h1>
 
-<div align="center">
-  <p>❤️ TailwindCSS &nbsp;&nbsp;&nbsp; ❤️ Next.js</p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasKliner/TomasKliner/049720af4c9d34dbd0cd9ef41bedf0fbd1c0fed0/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasKliner/TomasKliner/049720af4c9d34dbd0cd9ef41bedf0fbd1c0fed0/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TomasKliner/TomasKliner/049720af4c9d34dbd0cd9ef41bedf0fbd1c0fed0/github-snake.svg" />
+</picture>
 
 ## 📊 GitHub Stats
 
